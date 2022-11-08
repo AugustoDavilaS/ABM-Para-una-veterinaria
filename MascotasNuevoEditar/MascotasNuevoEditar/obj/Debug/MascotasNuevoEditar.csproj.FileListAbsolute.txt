@@ -1,0 +1,11 @@
+C:\Users\W10\source\repos\MascotasNuevoEditar\MascotasNuevoEditar\bin\Debug\MascotasNuevoEditar.exe.config
+C:\Users\W10\source\repos\MascotasNuevoEditar\MascotasNuevoEditar\bin\Debug\MascotasNuevoEditar.exe
+C:\Users\W10\source\repos\MascotasNuevoEditar\MascotasNuevoEditar\bin\Debug\MascotasNuevoEditar.pdb
+C:\Users\W10\source\repos\MascotasNuevoEditar\MascotasNuevoEditar\obj\Debug\MascotasNuevoEditar.csproj.AssemblyReference.cache
+C:\Users\W10\source\repos\MascotasNuevoEditar\MascotasNuevoEditar\obj\Debug\MascotasNuevoEditar.csproj.SuggestedBindingRedirects.cache
+C:\Users\W10\source\repos\MascotasNuevoEditar\MascotasNuevoEditar\obj\Debug\MascotasNuevoEditar.Form1.resources
+C:\Users\W10\source\repos\MascotasNuevoEditar\MascotasNuevoEditar\obj\Debug\MascotasNuevoEditar.Properties.Resources.resources
+C:\Users\W10\source\repos\MascotasNuevoEditar\MascotasNuevoEditar\obj\Debug\MascotasNuevoEditar.csproj.GenerateResource.cache
+C:\Users\W10\source\repos\MascotasNuevoEditar\MascotasNuevoEditar\obj\Debug\MascotasNuevoEditar.csproj.CoreCompileInputs.cache
+C:\Users\W10\source\repos\MascotasNuevoEditar\MascotasNuevoEditar\obj\Debug\MascotasNuevoEditar.exe
+C:\Users\W10\source\repos\MascotasNuevoEditar\MascotasNuevoEditar\obj\Debug\MascotasNuevoEditar.pdb
